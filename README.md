@@ -34,7 +34,7 @@ plugins:
 `sls dynamodb start --migrate`
 
 
-Note: Read the detailed section for more information on advanced options and configurations. Open a browser and go to the url http://localhost:8000/shell to access the web shell for dynamodb local.
+Note: Read the detailed section for more information on advanced options and configurations.
 
 ## Install: sls dynamodb install
 This installs the Java program locally. If using docker, this step is not required.
